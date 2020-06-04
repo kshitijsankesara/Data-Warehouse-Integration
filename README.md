@@ -21,5 +21,6 @@ We build a Data Warehouse for our IST 722: Data Warehouse course. We are designi
 9. Loaded all the data into the data warehouse.
 10. Designed and build MOLAP cubes.
 11. Visualize data using BI tools to create interactive reports and dashboards.
+12. Created Pivot Tables and Power Views to analyze the data using Microsoft Excel.
 
 **Tools Used: SQL, SQL Server, ETL, SSIS, Microsoft Excel, Power BI**
